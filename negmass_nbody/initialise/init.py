@@ -167,7 +167,7 @@ def particle_halo_init(G, num_pos_particles, num_neg_particles, num_tot_particle
     position=np.zeros((5,3))
     position[:,0]=[0.,1.,2.,3.,4.]
     velocity=np.zeros((5,3))
-    mass=np.array([1000,1.,1.,1.,1.])
+    mass=np.array([1000,1.e-3,1.e-3,1.e-3,1.e-3])
     #
 
 
