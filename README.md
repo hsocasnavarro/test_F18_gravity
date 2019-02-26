@@ -1,5 +1,11 @@
 # test_F18_gravity
 Test gravity in simulation code of Farnes (2018)  
+  
+  
+Check details in the included README.txt  
+
+  
+  
 Makes use of NumPy, DASK and probably other modules
 
 1)Import relevant modules with something like:  
