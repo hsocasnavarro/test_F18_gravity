@@ -19,7 +19,7 @@ In [4]: %run pipe
 Initialising Dark matter halo formation simulation...  
 Saving initial conditions to disk...  
 Beginning N-body simulation. Iteration: 0 of 1000  
-distance=1.0, grav=-998.1666870117188  
-distance=2.0, grav=-499.5  
-distance=3.0, grav=-333.8333435058594  
-distance=4.0, grav=-251.8333282470703  
+distance=1.0, grav=-999.9982299804688  
+distance=2.0, grav=-499.99951171875  
+distance=3.0, grav=-333.3338317871094  
+distance=4.0, grav=-250.00184631347656  
