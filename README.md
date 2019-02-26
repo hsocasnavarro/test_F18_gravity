@@ -2,7 +2,7 @@
 Test gravity in simulation code of Farnes (2018)git
 Makes use of NumPy, DASK and probably other modules
 
-1)Import relevant modules with something like:
+1)Import relevant modules with something like:  
 import sys  
 sys.append(['./','negmass_nbody/','negmass_nbody/initialise/'])
 
